@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="testCases.LoginTestCase">
+        <methods>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.LoginTestCase -->
+      <class name="testCases.SyncUSERTestCase">
+        <methods>
+          <include name="synxAdditionalNumbermet"/>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SyncUSERTestCase -->
+      <class name="testCases.SyncBUSINESSPROCESSTestCase">
+        <methods>
+          <include name="aftMet"/>
+          <include name="synxAdditionalNumbermet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SyncBUSINESSPROCESSTestCase -->
+      <class name="testCases.SynxAdditionalNumberTestcase">
+        <methods>
+          <include name="synxAdditionalNumbermet"/>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SynxAdditionalNumberTestcase -->
+      <class name="testCases.DataSourceTestcase">
+        <methods>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.DataSourceTestcase -->
+      <class name="testCases.SelectAppTestCase">
+        <methods>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SelectAppTestCase -->
+      <class name="testCases.AvailableEntitiesPage2ytestcase">
+        <methods>
+          <include name="synxAdditionalNumbermet"/>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.AvailableEntitiesPage2ytestcase -->
+      <class name="testCases.EntityActivityTestcase">
+        <methods>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.EntityActivityTestcase -->
+      <class name="testCases.SyncCALLCENTERTestCase">
+        <methods>
+          <include name="synxAdditionalNumbermet"/>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SyncCALLCENTERTestCase -->
+      <class name="testCases.ContactBuilderTestCase">
+        <methods>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.ContactBuilderTestCase -->
+      <class name="testCases.SynchronizedTabTestcase">
+        <methods>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SynchronizedTabTestcase -->
+      <class name="testCases.LoginTestCase2">
+        <methods>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.LoginTestCase2 -->
+      <class name="testCases.SyncACCOUNTTestCase">
+        <methods>
+          <include name="aftMet"/>
+          <include name="synxAdditionalNumbermet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SyncACCOUNTTestCase -->
+      <class name="testCases.SyncCONTACTTestCase">
+        <methods>
+          <include name="synxAdditionalNumbermet"/>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SyncCONTACTTestCase -->
+      <class name="testCases.SyncCASETestCase">
+        <methods>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SyncCASETestCase -->
+      <class name="testCases.SyncATTACHMENTTestCase">
+        <methods>
+          <include name="synxAdditionalNumbermet"/>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SyncATTACHMENTTestCase -->
+      <class name="testCases.SyncLEADTestCase">
+        <methods>
+          <include name="synxAdditionalNumbermet"/>
+          <include name="aftMet"/>
+          <include name="commonMet"/>
+        </methods>
+      </class> <!-- testCases.SyncLEADTestCase -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

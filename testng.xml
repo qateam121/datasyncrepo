@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testCases.SynchronizedTabTestcase"/>
+      <class name="testCases.LoginTestCase"/>
+      <class name="testCases.SyncLEADTestCase"/>
+      <class name="testCases.SyncUSERTestCase"/>
+      <class name="testCases.SyncATTACHMENTTestCase"/>
+      <class name="testCases.Class3"/>
+      <class name="testCases.DataSourceTestcase"/>
+      <class name="testCases.EntityActivityTestcase"/>
+      <class name="testCases.AvailableEntitiesPage2ytestcase"/>
+      <class name="testCases.LoginTestCase2"/>
+      <class name="pages.DataFromXls"/>
+      <class name="testCases.SelectAppTestCase"/>
+      <class name="testCases.SyncCASETestCase"/>
+      <class name="testCases.ContactBuilderTestCase"/>
+      <class name="testCases.SynxAdditionalNumberTestcase"/>
+      <class name="testCases.SyncBUSINESSPROCESSTestCase"/>
+      <class name="testCases.SyncCONTACTTestCase"/>
+      <class name="testCases.SyncCALLCENTERTestCase"/>
+      <class name="testCases.SyncACCOUNTTestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
